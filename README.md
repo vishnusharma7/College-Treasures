@@ -1,6 +1,6 @@
-# CampusSwapHub
+# Campus Treasure
 
-Welcome to CampusSwapHub - Your Campus Marketplace for buying and selling old books, instruments, and college-related items!
+Welcome to Campus Treasure - Your Campus Marketplace for buying and selling old books, instruments, and college-related items!
 
 ## Features
 
@@ -14,7 +14,7 @@ Welcome to CampusSwapHub - Your Campus Marketplace for buying and selling old bo
 
 - **Safe Transactions:** Prioritizing safety and security for transparent and confidential transactions.
 
-## Why CampusSwapHub?
+## Why Campus Treasure?
 
 - **Save Money:** Access affordable study materials and college essentials.
 
@@ -24,13 +24,13 @@ Welcome to CampusSwapHub - Your Campus Marketplace for buying and selling old bo
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/CampusSwapHub.git`
-2. Navigate to the project directory: `cd CampusSwapHub`
+1. Clone the repository: `git clone https://github.com/your-username/CampusTreasure.git`
+2. Navigate to the project directory: `cd CampusTreasure`
 3. Open the index.html file in your preferred browser.
 
 ## Contributing
 
-If you'd like to contribute to CampusSwapHub, please check out our [Contribution Guidelines](CONTRIBUTING.md).
+If you'd like to contribute to Campus Treasure, please check out our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
